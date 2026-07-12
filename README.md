@@ -19,6 +19,3 @@ A lightweight blogging platform for PHP.
 - PHP 7.4 or later
 - SQLite3
 
-## License
-
-MIT
